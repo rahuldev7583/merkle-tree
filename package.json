@@ -1,0 +1,23 @@
+{
+  "name": "merkle-tree",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun index.ts",
+    "dev": "bun index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "merkletree": "^1.5.0",
+    "merkletreejs": "^0.6.0"
+  }
+}
