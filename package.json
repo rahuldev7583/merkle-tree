@@ -17,6 +17,7 @@
     "@types/crypto-js": "^4.2.2",
     "crypto": "^1.0.1",
     "crypto-js": "^4.2.0",
+    "keccak256": "^1.0.6",
     "merkletree": "^1.5.0",
     "merkletreejs": "^0.6.0"
   }
